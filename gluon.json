@@ -1,11 +1,11 @@
 {
   "name": "RefreshView",
   "vendor": "PrivacySafe",
-  "appId": "com.refreshview.app",
+  "appId": "com.refreshview.browser",
   "binaryName": "refreshview-browser",
   "version": {
     "product": "firefox",
-    "version": "132.0"
+    "version": "132.0.2"
   },
   "buildOptions": {
     "windowsUseSymbolicLinks": false
