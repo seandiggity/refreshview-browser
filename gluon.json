@@ -1,11 +1,11 @@
 {
-  "name": "Jadua Go",
-  "vendor": "Jadua Studios",
-  "appId": "com.jadua.go",
-  "binaryName": "jadua-go-browser",
+  "name": "RefreshView",
+  "vendor": "PrivacySafe",
+  "appId": "com.refreshview.app",
+  "binaryName": "refreshview-browser",
   "version": {
     "product": "firefox",
-    "version": "126.0"
+    "version": "132.0"
   },
   "buildOptions": {
     "windowsUseSymbolicLinks": false
@@ -15,7 +15,7 @@
       "platform": "github",
       "id": "uBlock0@raymondhill.net",
       "repo": "gorhill/uBlock",
-      "version": "1.58.0",
+      "version": "1.61.0",
       "fileGlob": "uBlock0_*.firefox(.signed)?.xpi"
     },
     "SidebarTabs": {
@@ -56,14 +56,14 @@
   },
   "brands": {
     "dev": {
-      "backgroundColor": "#2B2A33",
-      "brandShorterName": "Jadua Go",
-      "brandShortName": "Jadua Go Browser",
-      "brandFullName": "Jadua Go Browser Dev",
+      "backgroundColor": "#021327",
+      "brandShorterName": "RefreshView",
+      "brandShortName": "RefreshView Browser",
+      "brandFullName": "RefreshView Browser Dev",
       "release": {
-        "displayVersion": "0.4.5-0",
+        "displayVersion": "0.5.0-0",
         "github": {
-          "repo": "JaduaStudios/JaduaGoBrowser"
+          "repo": "seandiggity/refreshview-browser"
         },
         "x86": {
           "windowsMar": "windows.mar",
